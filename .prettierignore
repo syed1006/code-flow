@@ -1,0 +1,7 @@
+# Ignore all 
+/.next
+/.github
+/.vscode
+/build
+/src/assets
+/package-lock.json

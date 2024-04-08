@@ -1,0 +1,18 @@
+{
+	"printWidth": 100,
+	"tabWidth": 4,
+	"tabs": true,
+	"singleQuote": true,
+	"semicolon": true,
+	"quoteProps": "preserve",
+	"bracketSpacing": false,
+	"editor.formatOnSave": true,
+	"overrides": [
+		{
+			"files": "*.ts",
+			"options": {
+				"singleQuote": false
+			}
+		}
+	]
+}
